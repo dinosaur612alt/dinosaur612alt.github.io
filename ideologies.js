@@ -1,5 +1,5 @@
 const ideologies = { // eslint-disable-line no-unused-vars
-  'Marxism-Leninism': {
+  'Stalinism': {
     a: 80,
     b: 80,
     c: 80,
@@ -8,37 +8,37 @@ const ideologies = { // eslint-disable-line no-unused-vars
     f: 70,
     g: 40
   },
-  'Orthodox-Marxism': {
-    a: 80,
-    b: 80,
+  'Classical-Marxism': {
+    a: 70,
+    b: 65,
     c: 60,
-    d: 80,
-    e: 70,
+    d: 70,
+    e: 55,
     f: 50,
     g: 30
   },
   'Eco-Marxism': {
-    a: 80,
-    b: 80,
+    a: 70,
+    b: 65,
     c: 60,
-    d: 80,
-    e: 70,
+    d: 70,
+    e: 55,
     f: 20,
     g: 30
   },
-  'Centrist-Marxism': {
-    a: 40,
-    b: 80,
-    c: 50,
-    d: 50,
-    e: 60,
-    f: 40,
-    g: 40
+  'Libertarian-Marxism': {
+    a: 70,
+    b: 65,
+    c: 40,
+    d: 70,
+    e: 55,
+    f: 50,
+    g: 30
   },
   'Council-Communism': {
-    a: 100,
+    a: 90,
     b: 70,
-    c: 40,
+    c: 60,
     d: 80,
     e: 50,
     f: 50,
@@ -46,8 +46,8 @@ const ideologies = { // eslint-disable-line no-unused-vars
   },
   'Left-Communism': {
     a: 90,
-    b: 60,
-    c: 50,
+    b: 70,
+    c: 60,
     d: 90,
     e: 80,
     f: 50,
